@@ -1,0 +1,284 @@
+{
+ "unverified": [
+  {
+   "id": "a2z-45",
+   "title": "Intersection of two sorted arrays",
+   "platform": "gfg",
+   "reason": "multiple GFG problems share this title"
+  },
+  {
+   "id": "a2z-498",
+   "title": "Kosaraju's algorithm",
+   "platform": "leetcode",
+   "reason": "reference link is not a LeetCode problem page",
+   "rawUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on"
+  },
+  {
+   "id": "a2z-979",
+   "title": "Rabin Karp Algorithm",
+   "platform": "leetcode",
+   "reason": "reference link is not a LeetCode problem page",
+   "rawUrl": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation"
+  }
+ ],
+ "excludedLessons": [
+  {
+   "title": "Breaking The Myth",
+   "topic": "Beginner Problems",
+   "subtopic": "Fundamentals of Programming",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Programming and What Are Computers?",
+   "topic": "Beginner Problems",
+   "subtopic": "Fundamentals of Programming",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "How to Think Like a Programmer",
+   "topic": "Beginner Problems",
+   "subtopic": "Fundamentals of Programming",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Flowcharts and Pseudocode",
+   "topic": "Beginner Problems",
+   "subtopic": "Fundamentals of Programming",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Flowchart Problem-Solving",
+   "topic": "Beginner Problems",
+   "subtopic": "Fundamentals of Programming",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Dry Runs, Edge Cases and Debugging",
+   "topic": "Beginner Problems",
+   "subtopic": "Fundamentals of Programming",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Programming Languages and Choosing a Path",
+   "topic": "Beginner Problems",
+   "subtopic": "Fundamentals of Programming",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Learn C++",
+   "topic": "Beginner Problems",
+   "subtopic": "Language Basics",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Learn Java",
+   "topic": "Beginner Problems",
+   "subtopic": "Language Basics",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Learn Python",
+   "topic": "Beginner Problems",
+   "subtopic": "Language Basics",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Easy and Medium",
+   "topic": "Beginner Problems",
+   "subtopic": "Logic Building (Patterns)",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Hard",
+   "topic": "Beginner Problems",
+   "subtopic": "Logic Building (Patterns)",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Theory with examples",
+   "topic": "Beginner Problems",
+   "subtopic": "Time Complexity",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "STL",
+   "topic": "Beginner Problems",
+   "subtopic": "Standard Libraries & Collections",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Java Collections",
+   "topic": "Beginner Problems",
+   "subtopic": "Standard Libraries & Collections",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Python Libraries Part 1",
+   "topic": "Beginner Problems",
+   "subtopic": "Standard Libraries & Collections",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Python Libraries Part 2",
+   "topic": "Beginner Problems",
+   "subtopic": "Standard Libraries & Collections",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Basic Maths",
+   "topic": "Beginner Problems",
+   "subtopic": "Concept Basics",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Basic Arrays",
+   "topic": "Beginner Problems",
+   "subtopic": "Concept Basics",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Basic Hashing",
+   "topic": "Beginner Problems",
+   "subtopic": "Concept Basics",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Basic String",
+   "topic": "Beginner Problems",
+   "subtopic": "Concept Basics",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Recursion Theory",
+   "topic": "Beginner Problems",
+   "subtopic": "Basic Recursion",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Recursion Concepts with Parameters",
+   "topic": "Beginner Problems",
+   "subtopic": "Basic Recursion",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Basic Hashing",
+   "topic": "Hashing",
+   "subtopic": "Theory",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Learn All Patterns of Subsequences (Theory)",
+   "topic": "Recursion",
+   "subtopic": "Subsequence Pattern Problems",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Introduction to Singly LinkedList",
+   "topic": "Linked-List",
+   "subtopic": "Fundamentals (Single LL)",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Deletion in Linked List",
+   "topic": "Linked-List",
+   "subtopic": "Fundamentals (Single LL)",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Insertion in Linked List",
+   "topic": "Linked-List",
+   "subtopic": "Fundamentals (Single LL)",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Introduction to Doubly LL",
+   "topic": "Linked-List",
+   "subtopic": "Fundamentals (Doubly LL)",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Deletion in Doubly LL",
+   "topic": "Linked-List",
+   "subtopic": "Fundamentals (Doubly LL)",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Insertion in DLL",
+   "topic": "Linked-List",
+   "subtopic": "Fundamentals (Doubly LL)",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Introduction to Bits and Tricks",
+   "topic": "Bit Manipulation",
+   "subtopic": "Theory",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Theory",
+   "topic": "Sliding Window / 2 Pointer",
+   "subtopic": "Pattern and Template",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Implementation using different DS",
+   "topic": "Stack / Queues",
+   "subtopic": "Implementation",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Introduction",
+   "topic": "Binary Trees",
+   "subtopic": "Theory/Traversals",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Introduction to BST",
+   "topic": "Binary Search Trees",
+   "subtopic": "Theory and Basics",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Heaps (Theory Video)",
+   "topic": "Heaps",
+   "subtopic": "Theory and Implementation",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Sort K sorted array",
+   "topic": "Heaps",
+   "subtopic": "FAQs",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Introduction to Graph",
+   "topic": "Graphs",
+   "subtopic": "Theory and traversals",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "MST theory",
+   "topic": "Graphs",
+   "subtopic": "Minimum Spanning Tree",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Introduction to DP",
+   "topic": "Dynamic Programming",
+   "subtopic": "Introduction",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Bit PreRequisites for TRIE Problems",
+   "topic": "Tries",
+   "subtopic": "Theory",
+   "reason": "lesson/article (not a problem)"
+  },
+  {
+   "title": "Hashing In Strings | Theory",
+   "topic": "Strings (Advanced Algo)",
+   "subtopic": "Advanced Problems (Less asked)",
+   "reason": "lesson/article (not a problem)"
+  }
+ ]
+}

@@ -1,0 +1,495 @@
+learning	Beginner Problems > Fundamentals of Programming	17136	breaking-the-myth	Breaking The Myth		
+learning	Beginner Problems > Fundamentals of Programming	17132	programming-and-what-are-computers	Programming and What Are Computers?		
+learning	Beginner Problems > Fundamentals of Programming	17133	how-to-think-like-a-programmer	How to Think Like a Programmer		
+learning	Beginner Problems > Fundamentals of Programming	17134	flowcharts-and-pseudocode	Flowcharts and Pseudocode		
+learning	Beginner Problems > Fundamentals of Programming	17135	flowchart-problem-solving	Flowchart Problem-Solving 		
+learning	Beginner Problems > Fundamentals of Programming	17137	dry-runs-edge-cases-and-debugging	Dry Runs, Edge Cases and Debugging		
+learning	Beginner Problems > Fundamentals of Programming	17138	programming-languages-and-choosing-a-path	Programming Languages and Choosing a Path		
+learning	Beginner Problems > Language Basics	17083	learn-cpp	Learn C++	basic	
+learning	Beginner Problems > Language Basics	17084	learn-java	Learn Java	basic	
+learning	Beginner Problems > Language Basics	17085	learn-python	Learn Python	basic	
+learning	Beginner Problems > Logic Building (Patterns)	1216	easy-and-medium	Easy and Medium	core	
+learning	Beginner Problems > Logic Building (Patterns)	1205	hard	Hard	pro	
+practice	Beginner Problems > Patterns	401	pattern-1	Pattern 1	basic	
+practice	Beginner Problems > Patterns	412	pattern-2	Pattern 2	basic	
+practice	Beginner Problems > Patterns	416	pattern-3	Pattern 3	basic	
+practice	Beginner Problems > Patterns	417	pattern-4	Pattern 4	basic	
+practice	Beginner Problems > Patterns	418	pattern-5	Pattern 5	basic	
+practice	Beginner Problems > Patterns	419	pattern-6	Pattern 6	basic	
+practice	Beginner Problems > Patterns	420	pattern-7	Pattern 7	basic	
+practice	Beginner Problems > Patterns	421	pattern-8	Pattern 8	basic	
+practice	Beginner Problems > Patterns	422	pattern-9	Pattern 9	basic	
+practice	Beginner Problems > Patterns	402	pattern-10	Pattern 10	basic	
+practice	Beginner Problems > Patterns	403	pattern-11	Pattern 11	basic	
+practice	Beginner Problems > Patterns	404	pattern-12	Pattern 12	basic	
+practice	Beginner Problems > Patterns	405	pattern-13	Pattern 13	basic	
+practice	Beginner Problems > Patterns	406	pattern-14	Pattern 14	basic	
+practice	Beginner Problems > Patterns	407	pattern-15	Pattern 15	basic	
+practice	Beginner Problems > Patterns	408	pattern-16	Pattern 16	basic	
+practice	Beginner Problems > Patterns	409	pattern-17	Pattern 17	basic	
+practice	Beginner Problems > Patterns	410	pattern-18	Pattern 18	basic	
+practice	Beginner Problems > Patterns	411	pattern-19	Pattern 19	basic	
+practice	Beginner Problems > Patterns	413	pattern-20	Pattern 20	core	
+practice	Beginner Problems > Patterns	414	pattern-21	Pattern 21	core	
+practice	Beginner Problems > Patterns	415	pattern-22	Pattern 22	core	
+learning	Beginner Problems > Time Complexity	1219	theory-with-examples	Theory with examples	core	
+learning	Beginner Problems > Standard Libraries & Collections	1218	stl	STL	core	
+learning	Beginner Problems > Standard Libraries & Collections	1217	java-collections	Java Collections	core	
+learning	Beginner Problems > Standard Libraries & Collections	1193	python-libraries-part-1	Python Libraries Part 1	basic	
+learning	Beginner Problems > Standard Libraries & Collections	1194	python-libraries-part-2	Python Libraries Part 2	core	
+learning	Beginner Problems > Concept Basics	1214	basic-maths	Basic Maths	basic	
+learning	Beginner Problems > Concept Basics	1213	basic-arrays-hashing-and-strings	Basic Arrays	basic	
+learning	Beginner Problems > Concept Basics	1203	basic-hashing	Basic Hashing	basic	
+learning	Beginner Problems > Concept Basics	1204	basic-string	Basic String	basic	
+practice	Beginner Problems > Basic Maths	367	count-all-digits-of-a-number	Count all Digits of a Number	basic	
+practice	Beginner Problems > Basic Maths	368	count-number-of-odd-digits-in-a-number	Count number of odd digits in a number	basic	
+practice	Beginner Problems > Basic Maths	376	reverse-a-number	Reverse a number	core	https://leetcode.com/problems/reverse-integer/
+practice	Beginner Problems > Basic Maths	374	palindrome-number	Palindrome Number	basic	https://leetcode.com/problems/palindrome-number/
+practice	Beginner Problems > Basic Maths	375	return-the-largest-digit-in-a-number	Return the Largest Digit in a Number	basic	
+practice	Beginner Problems > Basic Maths	371	factorial-of-a-given-number-i	Factorial of a given number	basic	
+practice	Beginner Problems > Basic Maths	366	check-if-the-number-if-armstrong	Check if the Number is Armstrong	basic	https://leetcode.com/problems/armstrong-number/
+practice	Beginner Problems > Basic Maths	364	check-for-perfect-number	Check for Perfect Number	basic	https://leetcode.com/problems/perfect-number/
+practice	Beginner Problems > Basic Maths	365	check-for-prime-number	Check for Prime Number	core	
+practice	Beginner Problems > Basic Maths	369	count-of-prime-numbers-till-n	Count of Prime Numbers till N	basic	https://leetcode.com/problems/count-primes/
+practice	Beginner Problems > Basic Maths	372	gcd-of-two-numbers	GCD of Two Numbers	core	
+practice	Beginner Problems > Basic Maths	373	lcm-of-two-numbers	LCM of two numbers	core	
+practice	Beginner Problems > Basic Maths	370	divisors-of-a-number	Divisors of a Number	core	
+practice	Beginner Problems > Basic Arrays	343	sum-of-array-elements	Sum of Array Elements	basic	
+practice	Beginner Problems > Basic Arrays	341	count-of-odd-numbers-in-array	Count of odd numbers in Array	basic	
+practice	Beginner Problems > Basic Arrays	340	check-if-the-array-is-sorted-i	Check if the Array is Sorted I	basic	
+practice	Beginner Problems > Basic Arrays	342	reverse-an-array	Reverse an array	basic	
+practice	Beginner Problems > Basic Hashing	344	highest-occurring-element-in-an-array	Highest Occurring Element in an Array	core	https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+practice	Beginner Problems > Basic Hashing	345	second-highest-occurring-element	Second Highest Occurring Element	core	
+practice	Beginner Problems > Basic Hashing	346	sum-of-highest-and-lowest-frequency	Sum of Highest and Lowest Frequency	core	
+practice	Beginner Problems > Basic Strings	397	reverse-a-string-ii	Reverse a String II	basic	https://leetcode.com/problems/reverse-string/
+practice	Beginner Problems > Basic Strings	396	palindrome-check	Palindrome Check	core	https://leetcode.com/problems/valid-palindrome/
+practice	Beginner Problems > Basic Strings	394	largest-odd-number-in-a-string	Largest Odd Number in a String	core	https://leetcode.com/problems/largest-odd-number-in-string/
+practice	Beginner Problems > Basic Strings	395	longest-common-prefix	Longest Common Prefix	core	https://leetcode.com/problems/longest-common-prefix/
+practice	Beginner Problems > Basic Strings	393	isomorphic-string	Isomorphic Strings	basic	https://leetcode.com/problems/isomorphic-strings/
+practice	Beginner Problems > Basic Strings	398	rotate-string	Rotate String	core	https://leetcode.com/problems/rotate-string/
+practice	Beginner Problems > Basic Strings	400	valid-anagram	Valid Anagram	basic	https://leetcode.com/problems/valid-anagram/
+practice	Beginner Problems > Basic Strings	399	sort-characters-by-frequency	Sort Characters by Frequency	core	https://leetcode.com/problems/sort-characters-by-frequency/
+learning	Beginner Problems > Basic Recursion	1199	recursion-theory	Recursion Theory	core	
+learning	Beginner Problems > Basic Recursion	1198	recursion-concepts-with-parameters	Recursion Concepts with Parameters	core	
+practice	Beginner Problems > Basic Recursion	386	sum-of-first-n-numbers	Sum of First N Numbers	basic	
+practice	Beginner Problems > Basic Recursion	380	factorial-of-a-given-number-ii	Factorial of a Given Number	basic	
+practice	Beginner Problems > Basic Recursion	384	sum-of-array-elements-ii	Sum of Array Elements II	basic	
+practice	Beginner Problems > Basic Recursion	383	reverse-a-string-i	Reverse a String I	basic	https://leetcode.com/problems/reverse-string/
+practice	Beginner Problems > Basic Recursion	378	check-if-string-is-palindrome-or-not-	Check if String is Palindrome or Not 	basic	https://leetcode.com/problems/valid-palindrome/
+practice	Beginner Problems > Basic Recursion	377	check-if-a-number-is-prime-or-not	Check if a Number is Prime or Not	core	
+practice	Beginner Problems > Basic Recursion	382	reverse-an-array-ii	Reverse an array 2	core	
+practice	Beginner Problems > Basic Recursion	379	check-if-the-array-is-sorted-ii	Check if the Array is Sorted II	basic	https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/#:~:text=Input%3A%20nums%20%3D%20%5B2%2C,no%20rotation)%20to%20make%20nums.
+practice	Beginner Problems > Basic Recursion	385	sum-of-digits-in-a-given-number	Sum of Digits in a Given Number	basic	
+practice	Beginner Problems > Basic Recursion	381	fibonacci-number	Fibonacci Number	core	https://leetcode.com/problems/fibonacci-number/
+practice	Sorting > Algorithms	947	selection-sort	Selection Sort	core	
+practice	Sorting > Algorithms	943	bubble-sort	Bubble Sort	core	
+practice	Sorting > Algorithms	944	insertion-sorting	Insertion Sorting	core	
+practice	Sorting > Algorithms	945	merge-sorting	Merge Sorting	core	
+practice	Sorting > Algorithms	946	quick-sorting	Quick Sorting	core	
+practice	Sorting > Algorithms	881	recursive-bubble-sort	Recursive Bubble Sort	core	
+practice	Sorting > Algorithms	882	recursive-insertion-sort	Recursive Insertion Sort	core	
+practice	Arrays > Fundamentals	41	linear-search	Linear Search	basic	
+practice	Arrays > Fundamentals	38	largest-element	Largest Element 	basic	
+practice	Arrays > Fundamentals	43	second-largest-element	Second Largest Element	basic	
+practice	Arrays > Fundamentals	42	maximum-consecutive-ones	Maximum Consecutive Ones	basic	https://leetcode.com/problems/max-consecutive-ones/
+practice	Arrays > Fundamentals	40	left-rotate-array-by-one	Left Rotate Array by One	basic	https://leetcode.com/problems/rotate-array/
+practice	Arrays > Fundamentals	39	left-rotate-array	Left Rotate Array by K Places	core	https://leetcode.com/problems/rotate-array/
+practice	Arrays > Logic Building	46	move-zeros-to-end	Move Zeros to End	basic	https://leetcode.com/problems/move-zeroes/
+practice	Arrays > Logic Building	47	remove-duplicates-from-sorted-array	Remove duplicates from sorted array	basic	https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+practice	Arrays > Logic Building	44	find-missing-number	Find missing number	basic	https://leetcode.com/problems/missing-number/
+practice	Arrays > Logic Building	48	union-of-two-sorted-arrays	Union of two sorted arrays	core	
+practice	Arrays > Logic Building	45	intersection-of-two-sorted-arrays	Intersection of two sorted arrays	core	
+practice	Arrays > FAQs(Medium)	22	majority-element-i	Majority Element-I	core	https://leetcode.com/problems/majority-element/
+practice	Arrays > FAQs(Medium)	30	leaders-in-an-array	Leaders in an Array	core	https://leetcode.com/problems/buildings-with-an-ocean-view/
+practice	Arrays > FAQs(Medium)	34	rearrange-array-elements-by-sign	Rearrange array elements by sign	core	https://leetcode.com/problems/rearrange-array-elements-by-sign/
+practice	Arrays > FAQs(Medium)	33	print-the-matrix-in-spiral-manner	Print the matrix in spiral manner	core	https://leetcode.com/problems/spiral-matrix/
+practice	Arrays > FAQs(Medium)	813	pascals-triangle-i	Pascal's Triangle I	core	https://leetcode.com/problems/pascals-triangle/
+practice	Arrays > FAQs(Medium)	812	pascals-triangle-ii	Pascal's Triangle II	core	https://leetcode.com/problems/pascals-triangle-ii/
+practice	Arrays > FAQs(Medium)	32	pascals-triangle-iii	Pascal's Triangle III	core	
+practice	Arrays > FAQs(Medium)	35	rotate-matrix-by-90-degrees	Rotate matrix by 90 degrees	core	https://leetcode.com/problems/rotate-image/
+practice	Arrays > FAQs(Medium)	911	set-matrix-zeroes	Set Matrix Zeroes	core	https://leetcode.com/problems/set-matrix-zeroes/
+practice	Arrays > FAQs(Medium)	37	two-sum	Two Sum	basic	https://leetcode.com/problems/two-sum/
+practice	Arrays > FAQs(Medium)	27	3-sum	3 Sum	core	https://leetcode.com/problems/3sum/
+practice	Arrays > FAQs(Medium)	28	4-sum	4 Sum	pro	https://leetcode.com/problems/4sum/
+practice	Arrays > FAQs(Medium)	36	sort-an-array-of-0's-1's-and-2's	Sort an array of 0's 1's and 2's	core	https://leetcode.com/problems/sort-colors/
+practice	Arrays > FAQs(Medium)	29	kadane's-algorithm	Kadane's Algorithm	core	https://leetcode.com/problems/maximum-subarray/
+practice	Arrays > FAQs(Medium)	31	next-permutation	Next Permutation	core	https://leetcode.com/problems/next-permutation/
+practice	Arrays > FAQs(Hard)	23	majority-element-ii	Majority Element-II	core	https://leetcode.com/problems/majority-element-ii/
+practice	Arrays > FAQs(Hard)	21	find-the-repeating-and-missing-number	Find the repeating and missing number	core	
+practice	Arrays > FAQs(Hard)	20	count-inversions	Count Inversions	pro	
+practice	Arrays > FAQs(Hard)	26	reverse-pairs	Reverse Pairs	pro	https://leetcode.com/problems/reverse-pairs/
+practice	Arrays > FAQs(Hard)	24	maximum-product-subarray-in-an-array	Maximum Product Subarray in an Array	core	https://leetcode.com/problems/maximum-product-subarray/
+practice	Arrays > FAQs(Hard)	25	merge-two-sorted-arrays-without-extra-space	Merge two sorted arrays without extra space	core	https://leetcode.com/problems/merge-sorted-array/
+learning	Hashing > Theory	1203	basic-hashing	Basic Hashing	basic	
+practice	Hashing > FAQs	563	longest-consecutive-sequence-in-an-array	Longest Consecutive Sequence in an Array	core	https://leetcode.com/problems/longest-consecutive-sequence/
+practice	Hashing > FAQs	564	longest-subarray-with-sum-k	Longest subarray with sum K	core	https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+practice	Hashing > FAQs	605	largest-subarray-with-sum-0	Largest Subarray with Sum 0	core	https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+practice	Hashing > FAQs	561	count-subarrays-with-given-sum	Count subarrays with given sum	core	https://leetcode.com/problems/subarray-sum-equals-k/
+practice	Hashing > FAQs	562	count-subarrays-with-given-xor-k	Count subarrays with given xor K	pro	
+practice	Binary Search > Fundamentals	81	search-x-in-sorted-array	Search X in sorted array	basic	https://leetcode.com/problems/binary-search/
+practice	Binary Search > Fundamentals	80	lower-bound-	Lower Bound 	core	
+practice	Binary Search > Fundamentals	82	upper-bound	Upper Bound	core	
+practice	Binary Search > Logic Building	89	search-insert-position	Search insert position	basic	https://leetcode.com/problems/search-insert-position/
+practice	Binary Search > Logic Building	86	floor-and-ceil-in-sorted-array	Floor and Ceil in Sorted Array	core	
+practice	Binary Search > Logic Building	85	first-and-last-occurrence	First and last occurrence	core	https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+practice	Binary Search > Logic Building	87	search-in-rotated-sorted-array-i	Search in rotated sorted array-I	core	https://leetcode.com/problems/search-in-rotated-sorted-array/
+practice	Binary Search > Logic Building	88	search-in-rotated-sorted-array-2	Search in rotated sorted array-II	core	https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+practice	Binary Search > Logic Building	83	find-minimum-in-rotated-sorted-array	Find minimum in Rotated Sorted Array	core	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+practice	Binary Search > Logic Building	84	find-out-how-many-times-the-array-is-rotated	Find out how many times the array is rotated	core	
+practice	Binary Search > Logic Building	90	single-element-in-sorted-array	Single element in sorted array	core	https://leetcode.com/problems/single-element-in-a-sorted-array/
+practice	Binary Search > Logic Building	229	count-occurrences-in-a-sorted-array	Count Occurrences in a Sorted Array	core	
+practice	Binary Search > On answers	92	find-square-root-of-a-number	Find square root of a number	core	https://leetcode.com/problems/sqrtx/
+practice	Binary Search > On answers	91	find-nth-root-of-a-number	Find Nth root of a number	core	
+practice	Binary Search > On answers	93	find-the-smallest-divisor	Find the smallest divisor	core	https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+practice	Binary Search > On answers	94	koko-eating-bananas	Koko eating bananas	pro	https://leetcode.com/problems/koko-eating-bananas/
+practice	Binary Search > On answers	95	minimum-days-to-make-m-bouquets	Minimum days to make M bouquets	pro	https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+practice	Binary Search > On answers	161	capacity-to-ship-packages-within-d-days	Capacity to Ship Packages Within D Days	pro	https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+practice	Binary Search > On answers	600	kth-missing-positive-number	Kth Missing Positive Number	pro	https://leetcode.com/problems/kth-missing-positive-number/
+practice	Binary Search > On answers	805	painters-partition	Painter's Partition	pro	https://leetcode.com/problems/split-array-largest-sum/
+practice	Binary Search > FAQs	73	aggressive-cows	Aggressive Cows	pro	
+practice	Binary Search > FAQs	74	book-allocation-problem	Book Allocation Problem	pro	https://leetcode.com/problems/split-array-largest-sum/
+practice	Binary Search > FAQs	75	find-peak-element	Find peak element	core	https://leetcode.com/problems/find-peak-element/
+practice	Binary Search > FAQs	77	median-of-2-sorted-arrays	Median of 2 sorted arrays	pro	https://leetcode.com/problems/median-of-two-sorted-arrays/
+practice	Binary Search > FAQs	76	kth-element-of-2-sorted-arrays	Kth element of 2 sorted arrays	pro	
+practice	Binary Search > FAQs	78	minimise-max-distance-to-gas-stations	Minimize Max Distance to Gas Station	pro	https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+practice	Binary Search > FAQs	79	split-array---largest-sum	Split array - largest sum	pro	https://leetcode.com/problems/split-array-largest-sum/
+practice	Binary Search > 2D Arrays	66	find-row-with-maximum-1's	Find row with maximum 1's	core	
+practice	Binary Search > 2D Arrays	69	search-in-a-2d-matrix	Search in a 2D Matrix	core	https://leetcode.com/problems/search-a-2d-matrix/
+practice	Binary Search > 2D Arrays	68	search-in-2d-matrix-ii	Search in 2D matrix - II	core	https://leetcode.com/problems/search-a-2d-matrix-ii/
+practice	Binary Search > 2D Arrays	65	find-peak-element-ii	Find Peak Element - II	core	https://leetcode.com/problems/find-a-peak-element-ii/
+practice	Binary Search > 2D Arrays	67	matrix-median	Matrix Median	pro	https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/
+practice	Strings (Basic and Medium) > Parentheses	892	remove-outermost-parentheses	Remove Outermost Parentheses	core	https://leetcode.com/problems/remove-outermost-parentheses/
+practice	Strings (Basic and Medium) > Parentheses	674	maximum-nesting-depth-of-the-parentheses	Maximum Nesting Depth of the Parentheses	core	https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+practice	Strings (Basic and Medium) > String Conversions	903	roman-to-integer	Roman to Integer	basic	https://leetcode.com/problems/roman-to-integer/
+practice	Strings (Basic and Medium) > String Conversions	974	string-to-integer-atoi	String to Integer (atoi)	core	https://leetcode.com/problems/string-to-integer-atoi/
+practice	Strings (Basic and Medium) > Substring Problems	19364	count-number-of-substring	Count Number of Substrings		
+practice	Strings (Basic and Medium) > Substring Problems	638	longest-palindromic-substring	Longest Palindromic Substring	core	https://leetcode.com/problems/longest-palindromic-substring/
+practice	Strings (Basic and Medium) > Substring Problems	993	sum-of-beauty-of-all-substrings	Sum of Beauty of All Substrings	core	https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
+practice	Recursion > Implementation Problems	877	pow(x,n)	Pow(x,n)	core	https://leetcode.com/problems/powx-n/
+practice	Recursion > Implementation Problems	876	generate-parentheses	Generate Parentheses	core	https://leetcode.com/problems/generate-parentheses/
+practice	Recursion > Implementation Problems	878	power-set	Power Set	core	https://leetcode.com/problems/subsets/
+practice	Recursion > Implementation Problems	222	count-good-numbers	Count Good Numbers	core	https://leetcode.com/problems/count-good-numbers/
+practice	Recursion > Implementation Problems	901	reverse-a-stack	Reverse a Stack	core	
+learning	Recursion > Subsequence Pattern Problems	2400	learn-all-patterns-of-subsequences	Learn All Patterns of Subsequences (Theory)		
+practice	Recursion > Subsequence Pattern Problems	879	check-if-there-exists-a-subsequence-with-sum-k	Check if there exists a subsequence with sum K	core	
+practice	Recursion > Subsequence Pattern Problems	880	count-all-subsequences-with-sum-k	Count all subsequences with sum K	core	
+practice	Recursion > Subsequence Pattern Problems	493	generate-binary-strings-without-consecutive-1s	Generate Binary Strings Without Consecutive 1s	core	
+practice	Recursion > FAQs (Medium)	864	combination-sum	Combination Sum	core	https://leetcode.com/problems/combination-sum/
+practice	Recursion > FAQs (Medium)	865	combination-sum-ii	Combination Sum II	core	https://leetcode.com/problems/combination-sum-ii/
+practice	Recursion > FAQs (Medium)	867	subsets-i	Subsets I	core	https://leetcode.com/problems/subsets/
+practice	Recursion > FAQs (Medium)	868	subsets-ii	Subsets II	core	https://leetcode.com/problems/subsets-ii/
+practice	Recursion > FAQs (Medium)	866	combination-sum-iii	Combination Sum III	pro	https://leetcode.com/problems/combination-sum-iii/
+practice	Recursion > Hard	875	letter-combinations-of-a-phone-number	Letter Combinations of a Phone Number	pro	https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+practice	Recursion > FAQs (Hard)	871	palindrome-partitioning	Palindrome partitioning	pro	https://leetcode.com/problems/palindrome-partitioning/
+practice	Recursion > FAQs (Hard)	874	word-search	Word Search	pro	https://leetcode.com/problems/word-search/
+practice	Recursion > FAQs (Hard)	870	n-queen	N Queen	pro	https://leetcode.com/problems/n-queens/
+practice	Recursion > FAQs (Hard)	872	rat-in-a-maze	Rat in a Maze	pro	
+practice	Recursion > FAQs (Hard)	869	m-coloring-problem	M Coloring Problem	pro	
+practice	Recursion > FAQs (Hard)	873	sudoko-solver	Sudoku Solver	pro	https://leetcode.com/problems/sudoku-solver/
+practice	Recursion > FAQs (Hard)	3	expression-add-operators	Expression Add Operators	pro	https://leetcode.com/problems/expression-add-operators/
+learning	Linked-List > Fundamentals (Single LL)	1237	introduction-to-singly-linkedlist	Introduction to Singly LinkedList	basic	
+practice	Linked-List > Fundamentals (Single LL)	624	traversal-in-linked-list	Traversal in Linked List	basic	
+learning	Linked-List > Fundamentals (Single LL)	1235	deletion-in-linked-list	Deletion in Linked List	core	
+learning	Linked-List > Fundamentals (Single LL)	1236	insertion-in-linked-list	Insertion in Linked List	core	
+practice	Linked-List > Fundamentals (Single LL)	352	deletion-of-the-head-of-ll	Deletion of the head of LL	core	https://leetcode.com/problems/delete-node-in-a-linked-list/
+practice	Linked-List > Fundamentals (Single LL)	354	deletion-of-the-tail-of-ll	Deletion of the tail of Linked List	core	
+practice	Linked-List > Fundamentals (Single LL)	353	deletion-of-the-kth-element-of-ll	Deletion of the Kth element of Linked List	core	
+practice	Linked-List > Fundamentals (Single LL)	351	delete-the-element-with-value-x	Delete the element with value X	core	
+practice	Linked-List > Fundamentals (Single LL)	356	insertion-at-the-head-of-ll	Insertion at the head of Linked List	core	
+practice	Linked-List > Fundamentals (Single LL)	358	insertion-at-the-tail-of-ll	Insertion at the tail of Linked List	core	
+practice	Linked-List > Fundamentals (Single LL)	357	insertion-at-the-kth-position-of-ll	Insertion at the Kth position of Linked List	core	
+practice	Linked-List > Fundamentals (Single LL)	359	insertion-before-the-value-x-in-ll	Insertion before the value X in Linked List	core	
+practice	Linked-List > Fundamentals (Single LL)	470	find-the-length-of-the-linked-list	Find the length of the Linked List	basic	
+practice	Linked-List > Fundamentals (Single LL)	905	search-in-linked-list	Search in Linked List	core	
+learning	Linked-List > Fundamentals (Doubly LL)	1234	introduction-to-doubly-ll	Introduction to Doubly LL	basic	
+learning	Linked-List > Fundamentals (Doubly LL)	1232	deletion-in-doubly-ll	Deletion in Doubly LL	core	
+learning	Linked-List > Fundamentals (Doubly LL)	1233	insertion-in-dll	Insertion in DLL	core	
+practice	Linked-List > Fundamentals (Doubly LL)	347	convert-array-to-dll	Convert Array to Doubly Linked List	core	
+practice	Linked-List > Fundamentals (Doubly LL)	350	delete-tail-of-dll	Delete Tail of Doubly Linked List	core	
+practice	Linked-List > Fundamentals (Doubly LL)	349	delete-kth-element-of-dll	Delete Kth Element of Doubly Linked List	core	
+practice	Linked-List > Fundamentals (Doubly LL)	363	removing-given-node-in-dll	Removing given node in Doubly Linked List	core	
+practice	Linked-List > Fundamentals (Doubly LL)	361	insert-node-before-head-in-dll	Insert node before head in Doubly Linked List	core	
+practice	Linked-List > Fundamentals (Doubly LL)	362	insert-node-before-tail-in-dll	Insert node before tail in Doubly Linked List	core	
+practice	Linked-List > Fundamentals (Doubly LL)	360	insert-node-before-kth-node-in-dll	Insert node before (kth node) in Doubly Linked List	core	
+practice	Linked-List > Fundamentals (Doubly LL)	355	insert-before-given-node-in-dll	Insert before given node in Doubly Linked List	core	
+practice	Linked-List > Fundamentals (Doubly LL)	348	delete-head-of-dll	Delete head of Doubly Linked List	core	
+practice	Linked-List > Fundamentals (Doubly LL)	900	reverse-a-doubly-linked-list	Reverse a Doubly Linked List	core	https://leetcode.com/problems/reverse-linked-list/
+practice	Linked-List > Logic Building	625	add-two-numbers-in-ll	Add two numbers in Linked List	core	https://leetcode.com/problems/add-two-numbers/
+practice	Linked-List > Logic Building	628	segregate-odd-and-even-nodes-in-ll	Segregate odd and even nodes in Linked List	core	https://leetcode.com/problems/odd-even-linked-list/
+practice	Linked-List > Logic Building	629	sort-a-ll-of-0's-1's-and-2's	Sort a Linked List of 0's 1's and 2's	core	
+practice	Linked-List > Logic Building	626	remove-nth-node-from-the-back-of-the-ll	Remove Nth node from the back of the LL	core	https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+practice	Linked-List > Logic Building	627	reverse-a-ll	Reverse a LL	core	https://leetcode.com/problems/reverse-linked-list/
+practice	Linked-List > FAQs (Medium)	617	add-one-to-a-number-represented-by-ll	Add one to a number represented by LL	core	https://leetcode.com/problems/plus-one-linked-list/
+practice	Linked-List > FAQs (Medium)	448	find-middle-of-linked-list	Find Middle of Linked List	basic	https://leetcode.com/problems/middle-of-the-linked-list/
+practice	Linked-List > FAQs (Medium)	619	delete-the-middle-node-in-ll	Delete the middle node in LL	core	https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+practice	Linked-List > FAQs (Medium)	618	check-if-ll-is-palindrome-or-not	Check if LL is palindrome or not	core	https://leetcode.com/problems/palindrome-linked-list/
+practice	Linked-List > FAQs (Medium)	621	find-the-intersection-point-of-y-ll	Find the intersection point of Y LL	core	https://leetcode.com/problems/intersection-of-two-linked-lists/
+practice	Linked-List > FAQs (Medium)	620	detect-a-loop-in-ll	Detect a loop in LL	core	https://leetcode.com/problems/linked-list-cycle/
+practice	Linked-List > FAQs (Medium)	622	find-the-starting-point-in-ll	Find the starting point in LL	core	https://leetcode.com/problems/linked-list-cycle-ii/
+practice	Linked-List > FAQs (Medium)	623	length-of-loop-in-ll	Length of loop in LL	core	
+practice	Linked-List > FAQs (Hard)	614	reverse-ll-in-group-of-given-size-k	Reverse LL in group of given size K	pro	https://leetcode.com/problems/reverse-nodes-in-k-group/
+practice	Linked-List > FAQs (Hard)	615	rotate-a-ll	Rotate a LL	core	https://leetcode.com/problems/rotate-list/
+practice	Linked-List > FAQs (Hard)	613	merge-sorted-lists-	Merge two Sorted Lists 	basic	https://leetcode.com/problems/merge-two-sorted-lists/
+practice	Linked-List > FAQs (Hard)	612	flattening-of-ll	Flattening of LL	pro	https://leetcode.com/problems/merge-k-sorted-lists/
+practice	Linked-List > FAQs (Hard)	616	sort-ll	Sort LL	core	https://leetcode.com/problems/sort-list/
+practice	Linked-List > FAQs (Hard)	611	clone-a-ll-with-random-and-next-pointer	Clone a LL with random and next pointer	pro	https://leetcode.com/problems/copy-list-with-random-pointer/
+practice	Linked-List > FAQS (DLL)	609	delete-all-occurrences-of-a-key-in-dll	Delete all occurrences of a key in DLL	core	
+practice	Linked-List > FAQS (DLL)	610	remove-duplicated-from-sorted-dll	Remove duplicates from sorted DLL	core	
+practice	Linked-List > FAQS (DLL)	452	find-pairs-with-given-sum-in-doubly-linked-list	Find Pairs with Given Sum in Doubly Linked List	core	
+learning	Bit Manipulation > Theory	1155	introduction-to-bits-and-tricks	Introduction to Bits and Tricks	basic	
+practice	Bit Manipulation > Bit Fundamentals	177	check-if-the-i-th-bit-is-set-or-not	Check if the i-th bit is Set or Not	basic	
+practice	Bit Manipulation > Bit Fundamentals	171	check-if-a-number-is-odd-or-not	Check if a Number is Odd or Not	basic	
+practice	Bit Manipulation > Bit Fundamentals	172	check-if-a-number-is-power-of-2-or-not	Check if a Number is Power of 2 or Not	basic	https://leetcode.com/problems/power-of-two/
+practice	Bit Manipulation > Bit Fundamentals	243	count-the-number-of-set-bits	Count the Number of Set Bits	basic	https://leetcode.com/problems/number-of-1-bits/
+practice	Bit Manipulation > Bit Fundamentals	19363	set-the-rightmost-unset-bit	Set the Rightmost Unset Bit		
+practice	Bit Manipulation > Bit Fundamentals	1005	swap-two-numbers	Swap Two Numbers	basic	
+practice	Bit Manipulation > Problems	141	minimum-bit-flips-to-convert-number	Minimum Bit Flips to Convert Number	basic	https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
+practice	Bit Manipulation > Problems	143	single-number---i	Single Number - I	basic	https://leetcode.com/problems/single-number/
+practice	Bit Manipulation > Problems	144	single-number---ii	Single Number - II	core	https://leetcode.com/problems/single-number-ii/
+practice	Bit Manipulation > Problems	145	single-number---iii	Single Number - III	pro	https://leetcode.com/problems/single-number-iii/
+practice	Bit Manipulation > Problems	140	divide-two-numbers-without-multiplication-and-division	Divide two numbers without multiplication and division	core	https://leetcode.com/problems/divide-two-integers/
+practice	Bit Manipulation > Problems	142	power-set-bit-manipulation	Power Set Bit Manipulation	core	https://leetcode.com/problems/subsets/
+practice	Bit Manipulation > Problems	146	xor-of-numbers-in-a-given-range	XOR of numbers in a given range	core	
+practice	Greedy Algorithms > Easy	541	assign-cookies	Assign Cookies	core	https://leetcode.com/problems/assign-cookies/
+practice	Greedy Algorithms > Easy	543	lemonade-change	Lemonade Change	core	https://leetcode.com/problems/lemonade-change/
+practice	Greedy Algorithms > Easy	489	fractional-knapsack	Fractional Knapsack	core	
+practice	Greedy Algorithms > Easy	542	jump-game---i	Jump Game - I	core	https://leetcode.com/problems/jump-game/
+practice	Greedy Algorithms > Scheduling and Interval Problems	551	shortest-job-first	Shortest Job First	core	
+practice	Greedy Algorithms > Scheduling and Interval Problems	547	job-sequencing-problem	Job sequencing Problem	core	
+practice	Greedy Algorithms > Scheduling and Interval Problems	549	n-meetings-in-one-room	N meetings in one room	core	
+practice	Greedy Algorithms > Scheduling and Interval Problems	550	non-overlapping-intervals	Non-overlapping Intervals	core	https://leetcode.com/problems/non-overlapping-intervals/
+practice	Greedy Algorithms > Scheduling and Interval Problems	546	insert-interval	Insert Interval	core	https://leetcode.com/problems/insert-interval/
+practice	Greedy Algorithms > Scheduling and Interval Problems	712	merge-intervals	Merge Intervals	core	https://leetcode.com/problems/merge-intervals/
+practice	Greedy Algorithms > Scheduling and Interval Problems	548	minimum-number-of-platforms-required-for-a-railway	Minimum number of platforms required for a railway	core	https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/
+practice	Greedy Algorithms > Hard	545	valid-paranthesis-checker	Valid Paranthesis Checker	pro	https://leetcode.com/problems/valid-parenthesis-string/
+practice	Greedy Algorithms > Hard	544	candy	Candy	pro	https://leetcode.com/problems/candy/
+practice	Greedy Algorithms > Hard	595	jump-game-ii	Jump Game II	pro	https://leetcode.com/problems/jump-game-ii/
+learning	Sliding Window / 2 Pointer > Pattern and Template	1254	theory	Theory	core	
+practice	Sliding Window / 2 Pointer > Constant Window	922	maximum-points-you-can-obtain-from-cards-	Maximum Points You Can Obtain from Cards 	core	https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+practice	Sliding Window / 2 Pointer > Longest and Smallest Window Problems	929	longest-substring-without-repeating-characters	Longest Substring Without Repeating Characters	core	https://leetcode.com/problems/longest-substring-without-repeating-characters/
+practice	Sliding Window / 2 Pointer > Longest and Smallest Window Problems	930	max-consecutive-ones-iii	 Max Consecutive Ones III	core	https://leetcode.com/problems/max-consecutive-ones-iii/
+practice	Sliding Window / 2 Pointer > Longest and Smallest Window Problems	926	fruit-into-baskets	 Fruit Into Baskets	core	https://leetcode.com/problems/fruit-into-baskets/
+practice	Sliding Window / 2 Pointer > Longest and Smallest Window Problems	928	longest-substring-with-at-most-k-distinct-characters	Longest Substring With At Most K Distinct Characters	pro	https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+practice	Sliding Window / 2 Pointer > Longest and Smallest Window Problems	927	longest-repeating-character-replacement	Longest Repeating Character Replacement	pro	https://leetcode.com/problems/longest-repeating-character-replacement/
+practice	Sliding Window / 2 Pointer > Longest and Smallest Window Problems	931	minimum-window-substring-	Minimum Window Substring 	pro	https://leetcode.com/problems/minimum-window-substring/
+practice	Sliding Window / 2 Pointer > Longest and Smallest Window Problems	754	minimum-window-subsequence	Minimum Window Subsequence	pro	https://leetcode.com/problems/minimum-window-subsequence/
+practice	Sliding Window / 2 Pointer > Counting Subarrays / Substrings Problems	925	number-of-substrings-containing-all-three-characters	Number of Substrings Containing All Three Characters	core	https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+practice	Sliding Window / 2 Pointer > Counting Subarrays / Substrings Problems	923	binary-subarrays-with-sum	Binary Subarrays With Sum	core	https://leetcode.com/problems/binary-subarrays-with-sum/
+practice	Sliding Window / 2 Pointer > Counting Subarrays / Substrings Problems	924	count-number-of-nice-subarrays	Count number of Nice subarrays	pro	https://leetcode.com/problems/count-number-of-nice-subarrays/
+practice	Sliding Window / 2 Pointer > Counting Subarrays / Substrings Problems	988	subarrays-with-k-different-integers	Subarrays with K Different Integers	pro	https://leetcode.com/problems/subarrays-with-k-different-integers/
+learning	Stack / Queues > Implementation	1256	implementation-using-different-ds	Implementation using different DS	core	
+practice	Stack / Queues > Implementation	390	implement-stack-using-arrays	Implement Stack using Arrays	core	
+practice	Stack / Queues > Implementation	387	implement-queue-using-arrays	Implement Queue using Arrays	core	
+practice	Stack / Queues > Implementation	392	implement-stack-using-queue	Implement Stack using Queue	core	https://leetcode.com/problems/implement-stack-using-queues/
+practice	Stack / Queues > Implementation	389	implement-queue-using-stack	Implement Queue using Stack	core	https://leetcode.com/problems/implement-queue-using-stacks/
+practice	Stack / Queues > Implementation	391	implement-stack-using-linkedlist	Implement stack using Linkedlist	core	
+practice	Stack / Queues > Implementation	388	implement-queue-using-linkedlist	Implement queue using Linkedlist	core	
+practice	Stack / Queues > Implementation	966	balanced-paranthesis	Balanced Paranthesis	core	https://leetcode.com/problems/valid-parentheses/
+practice	Stack / Queues > Prefix, Infix and Postfix Conversions	586	infix-to-postfix-conversion	Infix to Postfix Conversion	core	
+practice	Stack / Queues > Prefix, Infix and Postfix Conversions	587	infix-to-prefix-conversion	Infix to Prefix Conversion	core	
+practice	Stack / Queues > Prefix, Infix and Postfix Conversions	848	prefix-to-infix-conversion	Prefix to Infix Conversion	core	
+practice	Stack / Queues > Prefix, Infix and Postfix Conversions	849	prefix-to-postfix-conversion	Prefix to Postfix Conversion	core	
+practice	Stack / Queues > Prefix, Infix and Postfix Conversions	824	postfix-to-infix-conversion	Postfix to Infix Conversion	core	
+practice	Stack / Queues > Prefix, Infix and Postfix Conversions	825	postfix-to-prefix-conversion	Postfix to Prefix Conversion	core	
+practice	Stack / Queues > Monotonic Stack	968	next-greater-element	Next Greater Element	core	https://leetcode.com/problems/next-greater-element-i/
+practice	Stack / Queues > Monotonic Stack	969	next-greater-element---2	Next Greater Element - 2	core	https://leetcode.com/problems/next-greater-element-ii/
+practice	Stack / Queues > Monotonic Stack	967	asteroid-collision	Asteroid Collision	core	https://leetcode.com/problems/asteroid-collision/
+practice	Stack / Queues > Monotonic Stack	971	sum-of-subarray-minimums	Sum of Subarray Minimums	core	https://leetcode.com/problems/sum-of-subarray-minimums/
+practice	Stack / Queues > Monotonic Stack	972	sum-of-subarray-ranges	Sum of Subarray Ranges	core	https://leetcode.com/problems/sum-of-subarray-ranges/
+practice	Stack / Queues > Monotonic Stack	970	remove-k-digits	Remove K Digits	core	https://leetcode.com/problems/remove-k-digits/
+practice	Stack / Queues > Monotonic Stack	768	next-smaller-element	Next Smaller Element	core	
+practice	Stack / Queues > FAQs	958	implement-min-stack	Implement Min Stack	core	https://leetcode.com/problems/min-stack/
+practice	Stack / Queues > FAQs	963	sliding-window-maximum	Sliding Window Maximum	pro	https://leetcode.com/problems/sliding-window-maximum/
+practice	Stack / Queues > FAQs	965	trapping-rainwater	Trapping Rainwater	pro	https://leetcode.com/problems/trapping-rain-water/
+practice	Stack / Queues > FAQs	959	largest-rectangle-in-a-histogram	Largest rectangle in a histogram	pro	https://leetcode.com/problems/largest-rectangle-in-histogram/
+practice	Stack / Queues > FAQs	962	maximum-rectangles	Maximum Rectangles	pro	https://leetcode.com/problems/maximal-rectangle/
+practice	Stack / Queues > FAQs	964	stock-span-problem	Stock span problem	core	https://leetcode.com/problems/online-stock-span/
+practice	Stack / Queues > FAQs	957	celebrity-problem	Celebrity Problem	core	https://leetcode.com/problems/find-the-celebrity/
+practice	Stack / Queues > FAQs	961	lru-cache	LRU Cache	pro	https://leetcode.com/problems/lru-cache/
+practice	Stack / Queues > FAQs	960	lfu-cache	LFU Cache	pro	https://leetcode.com/problems/lfu-cache/
+practice	Stack / Queues > FAQs	285	number-of-greater-elements-to-the-right	Number of Greater Elements to the Right	core	
+learning	Binary Trees > Theory/Traversals	1154	introduction-	Introduction 	basic	
+practice	Binary Trees > Theory/Traversals	133	inorder-traversal	Inorder Traversal	basic	https://leetcode.com/problems/binary-tree-inorder-traversal/
+practice	Binary Trees > Theory/Traversals	137	preorder-traversal	Preorder Traversal	basic	https://leetcode.com/problems/binary-tree-preorder-traversal/
+practice	Binary Trees > Theory/Traversals	135	postorder-traversal	Postorder Traversal	basic	https://leetcode.com/problems/binary-tree-postorder-traversal/
+practice	Binary Trees > Theory/Traversals	134	level-order-traversal	Level Order Traversal	core	https://leetcode.com/problems/binary-tree-level-order-traversal/
+practice	Binary Trees > Theory/Traversals	136	pre,-post,-inorder-in-one-traversal	Pre, Post, Inorder in one traversal	core	
+practice	Binary Trees > Medium Problems	131	maximum-depth-in-bt	Maximum Depth in BT	core	https://leetcode.com/problems/maximum-depth-of-binary-tree/
+practice	Binary Trees > Medium Problems	129	check-if-two-trees-are-identical-or-not	Check if two trees are identical or not	core	https://leetcode.com/problems/same-tree/
+practice	Binary Trees > Medium Problems	127	check-for-balanced-binary-tree	Check for balanced binary tree	core	https://leetcode.com/problems/balanced-binary-tree/
+practice	Binary Trees > Medium Problems	130	diameter-of-binary-tree	Diameter of Binary Tree	core	https://leetcode.com/problems/diameter-of-binary-tree/
+practice	Binary Trees > Medium Problems	132	maximum-path-sum-	Maximum path sum 	pro	https://leetcode.com/problems/binary-tree-maximum-path-sum/
+practice	Binary Trees > Medium Problems	128	check-for-symmetrical-bts	Check for symmetrical BTs	core	https://leetcode.com/problems/symmetric-tree/
+practice	Binary Trees > Medium Problems	185	children-sum-property-in-binary-tree	Children Sum Property in Binary Tree	core	
+practice	Binary Trees > FAQs	126	zig-zag-or-spiral-traversal	Zig Zag or Spiral Traversal	core	https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+practice	Binary Trees > FAQs	116	boundary-traversal	Boundary Traversal	core	https://leetcode.com/problems/boundary-of-binary-tree/
+practice	Binary Trees > FAQs	125	vertical-order-traversal	Vertical Order Traversal	pro	https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+practice	Binary Trees > FAQs	124	top-view-of-bt	Top View of BT	core	
+practice	Binary Trees > FAQs	115	bottom-view-of-bt	Bottom view of BT	core	
+practice	Binary Trees > FAQs	123	right-left-view-of-bt	Right/Left View of BT	core	https://leetcode.com/problems/binary-tree-right-side-view/
+practice	Binary Trees > FAQs	122	print-root-to-leaf-path-in-bt	Print root to leaf path in BT	core	
+practice	Binary Trees > FAQs	118	lca-in-bt	LCA in BT	pro	https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+practice	Binary Trees > FAQs	119	maximum-width-of-bt	Maximum Width of BT	pro	https://leetcode.com/problems/maximum-width-of-binary-tree/
+practice	Binary Trees > FAQs	121	print-all-nodes-at-a-distance-of-k-in-bt	Print all nodes at a distance of K in BT	pro	https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+practice	Binary Trees > FAQs	120	minimum-time-taken-to-burn-the-bt-from-a-given-node	Minimum time taken to burn the BT from a given Node	pro	
+practice	Binary Trees > FAQs	117	count-total-nodes-in-a-complete-bt	Count total nodes in a complete BT	core	https://leetcode.com/problems/count-complete-tree-nodes/
+practice	Binary Trees > FAQs	486	flatten-binary-tree-to-linked-list	Flatten Binary Tree to Linked List	pro	https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+practice	Binary Trees > Construction Problems	111	requirements-needed-to-construct-a-unique-bt	Requirements needed to construct a unique BT	core	
+practice	Binary Trees > Construction Problems	110	construct-a-bt-from-preorder-and-inorder	Construct a BT from Preorder and Inorder	core	https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+practice	Binary Trees > Construction Problems	109	construct-a-bt-from-postorder-and-inorder	Construct a BT from Postorder and Inorder	core	https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+practice	Binary Trees > Construction Problems	112	serialize-and-de-serialize-bt	Serialize and De-serialize BT	pro	https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+practice	Binary Trees > Traversal in Constant Space	139	morris-inorder-traversal-	Morris Inorder Traversal 	pro	https://leetcode.com/problems/binary-tree-inorder-traversal/
+practice	Binary Trees > Traversal in Constant Space	138	morris-preorder-traversal-	Morris Preorder Traversal 	pro	https://leetcode.com/problems/binary-tree-preorder-traversal/
+learning	Binary Search Trees > Theory and Basics	1153	introduction-to-bst	Introduction to BST	basic	
+practice	Binary Search Trees > Theory and Basics	108	search-in-bst	Search in BST	basic	https://leetcode.com/problems/search-in-a-binary-search-tree/
+practice	Binary Search Trees > Theory and Basics	107	floor-and-ceil-in-a-bst	Floor and Ceil in a BST	core	
+practice	Binary Search Trees > Theory and Basics	19365	minimum-and-maximum-in-bst	Minimum and Maximum in BST		
+practice	Binary Search Trees > Medium	104	insert-a-given-node-in-bst	Insert a given node in BST	core	https://leetcode.com/problems/insert-into-a-binary-search-tree/
+practice	Binary Search Trees > Medium	102	delete-a-node-in-bst	Delete a node in BST	core	https://leetcode.com/problems/delete-node-in-a-bst/
+practice	Binary Search Trees > Medium	105	kth-smallest-and-largest-element-in-bst	Kth Smallest and Largest element in BST	core	https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+practice	Binary Search Trees > Medium	100	check-if-a-tree-is-a-bst-or-not	Check if a tree is a BST or not	core	https://leetcode.com/problems/validate-binary-search-tree/
+practice	Binary Search Trees > Medium	106	lca-in-bst	LCA in BST	core	https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+practice	Binary Search Trees > Medium	101	construct-a-bst-from-a-preorder-traversal	Construct a BST from a preorder traversal	core	https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+practice	Binary Search Trees > Medium	103	inorder-successor-and-predecessor-in-bst	Inorder successor and predecessor in BST	core	https://leetcode.com/problems/inorder-successor-in-bst/
+practice	Binary Search Trees > FAQs	96	bst-iterator	BST iterator	core	https://leetcode.com/problems/binary-search-tree-iterator/
+practice	Binary Search Trees > FAQs	99	two-sum-in-bst	Two sum in BST	core	https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+practice	Binary Search Trees > FAQs	97	correct-bst-with-two-nodes-swapped	Correct BST with two nodes swapped	pro	https://leetcode.com/problems/recover-binary-search-tree/
+practice	Binary Search Trees > FAQs	98	largest-bst-in-binary-tree	Largest BST in Binary Tree	pro	https://leetcode.com/problems/largest-bst-subtree/
+learning	Heaps > Theory and Implementation	1223	heaps-theory	Heaps (Theory Video)	core	
+practice	Heaps > Theory and Implementation	573	heapify-algorithm	Heapify Algorithm	core	
+practice	Heaps > Theory and Implementation	570	build-heap-from-a-given-array	Build heap from a given Array	core	
+practice	Heaps > Theory and Implementation	576	implement-min-heap	Implement Min Heap	core	
+practice	Heaps > Theory and Implementation	575	implement-max-heap	Implement Max Heap	core	
+practice	Heaps > Theory and Implementation	571	check-if-an-array-represents-a-min-heap-	Check if an array represents a min heap 	core	
+practice	Heaps > Theory and Implementation	572	convert-min-heap-to-max-heap	Convert Min Heap to Max Heap	core	
+practice	Heaps > Theory and Implementation	574	heap-sort	Heap Sort	pro	
+practice	Heaps > Theory and Implementation	578	k-th-largest-element-in-an-array	K-th Largest element in an array	pro	https://leetcode.com/problems/kth-largest-element-in-an-array/
+practice	Heaps > FAQs	567	kth-largest-element-in-a-stream-of-running-integers	Kth largest element in a stream of running integers	pro	https://leetcode.com/problems/kth-largest-element-in-a-stream/
+learning	Heaps > FAQs	2409	sort-k-sorted-array	Sort K sorted array		
+practice	Heaps > FAQs	569	merge-k-sorted-lists	Merge K sorted Lists	pro	https://leetcode.com/problems/merge-k-sorted-lists/
+practice	Heaps > FAQs	898	replace-elements-by-their-rank	Replace Elements by Their Rank	core	https://leetcode.com/problems/rank-transform-of-an-array/
+practice	Heaps > FAQs	1008	task-scheduler	Task Scheduler	core	https://leetcode.com/problems/task-scheduler/
+practice	Heaps > FAQs	556	hand-of-straights	Hand of Straights	core	https://leetcode.com/problems/hand-of-straights/
+practice	Heaps > FAQs	565	design-twitter	Design Twitter	core	https://leetcode.com/problems/design-twitter/
+practice	Heaps > FAQs	755	minimum-cost-to-connect-sticks	Minimum Cost to Connect Sticks	core	https://leetcode.com/problems/minimum-cost-to-connect-sticks/
+practice	Heaps > FAQs	568	maximum-sum-combination	Maximum Sum Combination	core	
+practice	Heaps > FAQs	566	find-median-from-data-stream	Find Median from Data Stream	pro	https://leetcode.com/problems/find-median-from-data-stream/
+practice	Heaps > FAQs	1018	top-k-frequent-elements	Top K Frequent Elements	core	https://leetcode.com/problems/top-k-frequent-elements/
+learning	Graphs > Theory and traversals	1222	introduction-to-graph	Introduction to Graph	basic	
+practice	Graphs > Theory and traversals	529	traversal-techniques	Traversal Techniques	core	
+practice	Graphs > Theory and traversals	528	connected-components	Connected Components	core	https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+practice	Graphs > Traversal Problems	535	number-of-provinces	Number of provinces	core	https://leetcode.com/problems/number-of-provinces/
+practice	Graphs > Traversal Problems	534	number-of-islands	Number of islands	core	https://leetcode.com/problems/number-of-islands/
+practice	Graphs > Traversal Problems	531	flood-fill-algorithm	Flood fill algorithm	core	https://leetcode.com/problems/flood-fill/
+practice	Graphs > Traversal Problems	533	number-of-enclaves	Number of enclaves	core	https://leetcode.com/problems/number-of-enclaves/
+practice	Graphs > Traversal Problems	536	rotten-oranges	Rotten Oranges	core	https://leetcode.com/problems/rotting-oranges/
+practice	Graphs > Traversal Problems	530	distance-of-nearest-cell-having-one	Distance of nearest cell having one	core	https://leetcode.com/problems/01-matrix/
+practice	Graphs > Traversal Problems	537	surrounded-regions	Surrounded Regions	core	https://leetcode.com/problems/surrounded-regions/
+practice	Graphs > Traversal Problems	532	number-of-distinct-islands	Number of distinct islands	core	https://leetcode.com/problems/number-of-distinct-islands/
+practice	Graphs > Cycles	501	detect-a-cycle-in-an-undirected-graph	Detect a cycle in an undirected graph	core	https://leetcode.com/problems/course-schedule/
+practice	Graphs > Cycles	499	bipartite-graph	Bipartite graph	core	https://leetcode.com/problems/is-graph-bipartite/
+practice	Graphs > Cycles	502	topological-sort-or-kahns-algorithm	Topological sort or Kahn's algorithm	core	
+practice	Graphs > Cycles	500	detect-a-cycle-in-a-directed-graph	Detect a cycle in a directed graph	core	https://leetcode.com/problems/course-schedule/
+practice	Graphs > Hard Problems	506	find-eventual-safe-states	Find eventual safe states	pro	https://leetcode.com/problems/find-eventual-safe-states/
+practice	Graphs > Hard Problems	504	course-schedule-i	Course Schedule I	pro	https://leetcode.com/problems/course-schedule/
+practice	Graphs > Hard Problems	505	course-schedule-ii	Course Schedule II	pro	https://leetcode.com/problems/course-schedule-ii/
+practice	Graphs > Hard Problems	503	alient-dictionary	Alien Dictionary	pro	https://leetcode.com/problems/alien-dictionary/
+practice	Graphs > Hard Problems	507	shortest-path-in-dag	Shortest path in DAG	core	
+practice	Graphs > Hard Problems	508	shortest-path-in-undirected-graph-with-unit-weights	Shortest path in undirected graph with unit weights	core	
+practice	Graphs > Hard Problems	509	word-ladder-i	Word ladder I	pro	https://leetcode.com/problems/word-ladder/
+practice	Graphs > Hard Problems	510	word-ladder-ii	Word ladder II	pro	https://leetcode.com/problems/word-ladder-ii/
+practice	Graphs > Shortest Path Algorithms	520	dijkstra's-algorithm	Dijkstra's algorithm	core	
+practice	Graphs > Shortest Path Algorithms	526	print-shortest-path-	Print Shortest Path 	core	
+practice	Graphs > Shortest Path Algorithms	527	shortest-path-with-minimum-effort	Shortest Distance in a Binary Maze	core	https://leetcode.com/problems/shortest-path-in-binary-matrix/
+practice	Graphs > Shortest Path Algorithms	525	path-with-minimum-effort	Path with minimum effort	core	https://leetcode.com/problems/path-with-minimum-effort/
+practice	Graphs > Shortest Path Algorithms	519	cheapest-flight-within-k-stops	Cheapest flight within K stops	pro	https://leetcode.com/problems/cheapest-flights-within-k-stops/
+practice	Graphs > Shortest Path Algorithms	523	minimum-multiplications-to-reach-end	Minimum multiplications to reach end	pro	
+practice	Graphs > Shortest Path Algorithms	524	number-of-ways-to-arrive-at-destination	Number of ways to arrive at destination	pro	https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+practice	Graphs > Shortest Path Algorithms	518	bellman-ford-algorithm	Bellman ford algorithm	pro	
+practice	Graphs > Shortest Path Algorithms	522	floyd-warshall-algorithm	Floyd warshall algorithm	pro	
+practice	Graphs > Shortest Path Algorithms	521	find-the-city-with-the-smallest-number-of-neighbors	Find the city with the smallest number of neighbors	pro	https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+practice	Graphs > Shortest Path Algorithms	764	network-delay-time	Network Delay Time	core	https://leetcode.com/problems/network-delay-time/
+practice	Graphs > Shortest Path Algorithms	1006	swim-in-rising-water	Swim in Rising Water	pro	https://leetcode.com/problems/swim-in-rising-water/
+learning	Graphs > Minimum Spanning Tree	1221	mst-theory	MST theory	core	
+practice	Graphs > Minimum Spanning Tree	516	disjoint-set-	Disjoint Set 	core	
+practice	Graphs > Minimum Spanning Tree	517	find-the-mst-weight	Find the MST weight	core	https://leetcode.com/problems/connecting-cities-with-minimum-cost/
+practice	Graphs > Hard Problems II	515	number-of-operations-to-make-network-connected	Number of operations to make network connected	core	https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+practice	Graphs > Hard Problems II	511	accounts-merge	Accounts merge	core	https://leetcode.com/problems/accounts-merge/
+practice	Graphs > Hard Problems II	514	number-of-islands-ii	Number of islands II	pro	https://leetcode.com/problems/number-of-islands-ii/
+practice	Graphs > Hard Problems II	512	making-a-large-island	Making a large island	pro	https://leetcode.com/problems/making-a-large-island/
+practice	Graphs > Hard Problems II	513	most-stones-removed-with-same-row-or-column	Most stones removed with same row or column	pro	https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+practice	Graphs > Additional Algorithms	498	kosaraju's-algorithm	Kosaraju's algorithm	pro	https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on
+practice	Graphs > Additional Algorithms	497	bridges-in-graph	Bridges in graph	pro	https://leetcode.com/problems/critical-connections-in-a-network/
+practice	Graphs > Additional Algorithms	496	articulation-point-in-graph	Articulation point in graph	pro	
+learning	Dynamic Programming > Introduction	1195	introduction-to-dp	Introduction to DP	basic	
+practice	Dynamic Programming > 1D DP	287	climbing-stairs	Climbing stairs	core	https://leetcode.com/problems/climbing-stairs/
+practice	Dynamic Programming > 1D DP	288	frog-jump	Frog Jump	core	
+practice	Dynamic Programming > 1D DP	289	frog-jump-with-k-distances	Frog jump with K distances	core	
+practice	Dynamic Programming > 1D DP	291	maximum-sum-of-non-adjacent-elements	Maximum sum of non adjacent elements	core	https://leetcode.com/problems/house-robber/
+practice	Dynamic Programming > 1D DP	290	house-robber	House robber	core	https://leetcode.com/problems/house-robber/
+practice	Dynamic Programming > 2D DP	292	ninja's-training	Ninja's training	core	
+practice	Dynamic Programming > DP on grids	297	grid-unique-paths	Grid unique paths	core	https://leetcode.com/problems/unique-paths/
+practice	Dynamic Programming > DP on grids	300	unique-paths-ii	Unique paths II	pro	https://leetcode.com/problems/unique-paths-ii/
+practice	Dynamic Programming > DP on grids	298	minimum-falling-path-sum	Minimum Falling Path Sum	core	https://leetcode.com/problems/minimum-falling-path-sum/
+practice	Dynamic Programming > DP on grids	299	triangle	Triangle	core	https://leetcode.com/problems/triangle/
+practice	Dynamic Programming > DP on grids	296	cherry-pickup-ii	Cherry pickup II	pro	https://leetcode.com/problems/cherry-pickup-ii/
+practice	Dynamic Programming > DP on grids	19360	count-square-submatrices-with-all-one	Count Square Submatrices with All Ones		https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+practice	Dynamic Programming > DP on stocks	301	best-time-to-buy-and-sell-stock	Best time to buy and sell stock	core	https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+practice	Dynamic Programming > DP on stocks	302	best-time-to-buy-and-sell-stock-ii	Best time to buy and sell stock II	core	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+practice	Dynamic Programming > DP on stocks	303	best-time-to-buy-and-sell-stock-iii	Best time to buy and sell stock III	pro	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+practice	Dynamic Programming > DP on stocks	304	best-time-to-buy-and-sell-stock-iv	Best time to buy and sell stock IV	pro	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+practice	Dynamic Programming > DP on stocks	305	best-time-to-buy-and-sell-stock-with-cooldown-and-transaction-fees	Best time to buy and sell stock with transaction fees	core	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+practice	Dynamic Programming > DP on stocks	56	best-time-to-buy-and-sell-stock-with-cooldown	Best Time to Buy and Sell Stock with Cooldown	core	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+practice	Dynamic Programming > DP on subsequences	323	subset-sum-equals-to-target	Subset sum equals to target	core	
+practice	Dynamic Programming > DP on subsequences	321	partition-equal-subset-sum	Partition equal subset sum	core	https://leetcode.com/problems/partition-equal-subset-sum/
+practice	Dynamic Programming > DP on subsequences	320	partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference	Partition a set into two subsets with minimum absolute sum difference	pro	https://leetcode.com/problems/last-stone-weight-ii/
+practice	Dynamic Programming > DP on subsequences	318	count-subsets-with-sum-k	Count subsets with sum K	core	
+practice	Dynamic Programming > DP on subsequences	317	count-partitions-with-given-difference	Count partitions with given difference	core	
+practice	Dynamic Programming > DP on subsequences	315	0-and-1-knapsack	0 and 1 Knapsack	core	
+practice	Dynamic Programming > DP on subsequences	319	minimum-coins	Minimum coins	core	https://leetcode.com/problems/coin-change/
+practice	Dynamic Programming > DP on subsequences	324	target-sum	Target sum	core	https://leetcode.com/problems/target-sum/
+practice	Dynamic Programming > DP on subsequences	316	coin-change-ii	Coin change II	pro	https://leetcode.com/problems/coin-change-ii/
+practice	Dynamic Programming > DP on subsequences	325	unbounded-knapsack	Unbounded knapsack	core	
+practice	Dynamic Programming > DP on subsequences	322	rod-cutting-problem	Rod cutting problem	pro	
+practice	Dynamic Programming > LIS	636	longest-increasing-subsequence	Longest Increasing Subsequence	core	https://leetcode.com/problems/longest-increasing-subsequence/
+practice	Dynamic Programming > LIS	851	print-longest-increasing-subsequence	Print Longest Increasing Subsequence	pro	
+practice	Dynamic Programming > LIS	603	largest-divisible-subset	Largest Divisible Subset	core	https://leetcode.com/problems/largest-divisible-subset/
+practice	Dynamic Programming > LIS	640	longest-string-chain	Longest String Chain	core	https://leetcode.com/problems/longest-string-chain/
+practice	Dynamic Programming > LIS	633	longest-bitonic-subsequence	Longest Bitonic Subsequence	core	
+practice	Dynamic Programming > LIS	780	number-of-longest-increasing-subsequences	Number of Longest Increasing Subsequences	core	https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+practice	Dynamic Programming > DP on strings	308	longest-common-subsequence	Longest common subsequence	core	https://leetcode.com/problems/longest-common-subsequence/
+practice	Dynamic Programming > DP on strings	309	longest-common-substring	Longest common substring	core	
+practice	Dynamic Programming > DP on strings	310	longest-palindromic-subsequence	Longest palindromic subsequence	core	https://leetcode.com/problems/longest-palindromic-subsequence/
+practice	Dynamic Programming > DP on strings	312	minimum-insertions-to-make-string-palindrome	Minimum insertions to make string palindrome	pro	https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+practice	Dynamic Programming > DP on strings	311	minimum-insertions-or-deletions-to-convert-string-a-to-b	Minimum insertions or deletions to convert string A to B	core	https://leetcode.com/problems/delete-operation-for-two-strings/
+practice	Dynamic Programming > DP on strings	313	shortest-common-supersequence	Shortest common supersequence	pro	https://leetcode.com/problems/shortest-common-supersequence/
+practice	Dynamic Programming > DP on strings	306	distinct-subsequences	Distinct subsequences	pro	https://leetcode.com/problems/distinct-subsequences/
+practice	Dynamic Programming > DP on strings	307	edit-distance	Edit distance	pro	https://leetcode.com/problems/edit-distance/
+practice	Dynamic Programming > DP on strings	314	wildcard-matching	Wildcard matching	pro	https://leetcode.com/problems/wildcard-matching/
+practice	Dynamic Programming > DP on strings	4	word-break	Word Break	core	https://leetcode.com/problems/word-break/
+practice	Dynamic Programming > DP on strings	231	count-palindromic-subsequences	Count Palindromic Subsequences	pro	https://leetcode.com/problems/count-palindromic-subsequences/
+practice	Dynamic Programming > MCM DP	327	matrix-chain-multiplication	Matrix chain multiplication	pro	
+practice	Dynamic Programming > MCM DP	326	burst-balloons	Burst balloons	pro	https://leetcode.com/problems/burst-balloons/
+practice	Dynamic Programming > MCM DP	329	palindrome-partitioning-ii-	Palindrome partitioning II 	pro	https://leetcode.com/problems/palindrome-partitioning-ii/
+practice	Dynamic Programming > MCM DP	810	partition-array-for-maximum-sum	Partition Array for Maximum Sum	pro	https://leetcode.com/problems/partition-array-for-maximum-sum/
+practice	Dynamic Programming > MCM DP	328	minimum-cost-to-cut-the-stick	Minimum cost to cut the stick	pro	https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+practice	Dynamic Programming > MCM DP	276	different-ways-to-evaluate-a-boolean-expression	Different Ways to Evaluate a Boolean Expression	pro	https://leetcode.com/problems/parsing-a-boolean-expression/
+learning	Tries > Theory	2390	bit-prerequisites-for-trie-problems	Bit PreRequisites for TRIE Problems		
+practice	Tries > Theory	1028	trie-implementation-and-operations	Trie Implementation and Operations	core	https://leetcode.com/problems/implement-trie-prefix-tree/
+practice	Tries > Theory	1027	trie-implementation-and-advanced-operations	Trie Implementation and Advanced Operations	core	https://leetcode.com/problems/implement-trie-ii-prefix-tree/
+practice	Tries > Problems	1023	longest-word-with-all-prefixes	Longest Word with All Prefixes	core	https://leetcode.com/problems/longest-word-with-all-prefixes/
+practice	Tries > Problems	1026	number-of-distinct-substrings-in-a-string	Number of distinct substrings in a string	pro	https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/
+practice	Tries > Problems	1024	maximum-xor-of-two-numbers-in-an-array	Maximum XOR of two numbers in an array	core	https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+practice	Tries > Problems	1025	maximum-xor-with-an-element-from-an-array	Maximum Xor with an element from an array	pro	https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
+practice	Strings (Advanced Algo) > Medium Problems	984	reverse-every-word-in-a-string	Reverse every word in a string	core	https://leetcode.com/problems/reverse-words-in-a-string/
+practice	Strings (Advanced Algo) > Medium Problems	983	minimum-number-of-bracket-reversals-to-make-an-expression-balanced	Minimum number of bracket reversals to make an expression balanced	core	https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+practice	Strings (Advanced Algo) > Medium Problems	982	count-and-say	Count and say	core	https://leetcode.com/problems/count-and-say/
+learning	Strings (Advanced Algo) > Advanced Problems (Less asked)	2399	hashing-in-strings-theory	Hashing In Strings | Theory		
+practice	Strings (Advanced Algo) > Advanced Problems (Less asked)	979	rabin-karp-algorithm	Rabin Karp Algorithm	pro	https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation
+practice	Strings (Advanced Algo) > Advanced Problems (Less asked)	981	z-function	Z function	pro	
+practice	Strings (Advanced Algo) > Advanced Problems (Less asked)	977	kmp-algorithm-or-lps-array	KMP Algorithm or LPS array	pro	https://leetcode.com/problems/implement-strstr/
+practice	Strings (Advanced Algo) > Advanced Problems (Less asked)	980	shortest-palindrome	Shortest Palindrome	pro	https://leetcode.com/problems/shortest-palindrome/
+practice	Strings (Advanced Algo) > Advanced Problems (Less asked)	978	longest-happy-prefix	Longest happy prefix	pro	https://leetcode.com/problems/longest-happy-prefix/
+practice	Maths > Sieve of Eratosthenes	653	print-all-primes-till-n	Print all primes till N	core	
+practice	Maths > Sieve of Eratosthenes	652	prime-factorisation-of-a-number	Prime factorisation of a Number	core	
+practice	Maths > Sieve of Eratosthenes	651	count-primes-in-range-l-to-r	Count primes in range L to R	pro	https://leetcode.com/problems/count-primes/

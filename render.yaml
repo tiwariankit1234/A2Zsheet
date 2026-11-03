@@ -1,0 +1,23 @@
+# Render Blueprint for the A2Z Tracker API (Express + MongoDB Atlas).
+services:
+  - type: web
+    name: a2z-tracker-api
+    runtime: node
+    rootDir: server
+    plan: free
+    buildCommand: npm ci --omit=dev
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: JWT_EXPIRES_IN
+        value: 30d
+      - key: CLIENT_ORIGIN
+        sync: false
+      - key: AUTO_SEED
+        value: "true"
