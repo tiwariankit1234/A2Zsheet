@@ -22,7 +22,7 @@ export const tokenStore = {
 
 const http = axios.create({
   baseURL: import.meta.env.VITE_API_URL || '/api',
-  timeout: 15000,
+  timeout: 60000, // Render free tier can take ~50s to wake up
 });
 
 http.interceptors.request.use((config) => {
