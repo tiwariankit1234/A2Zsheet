@@ -8,12 +8,16 @@ const userSchema = new mongoose.Schema(
     name: { type: String, trim: true, maxlength: 60 },
     email: { type: String, trim: true, lowercase: true },
     passwordHash: { type: String, select: false },
+    // Last time this user made an authenticated request (updated at most once an hour).
+    // Used to delete guest accounts nobody has come back to.
+    lastSeenAt: { type: Date, default: Date.now },
   },
   { timestamps: true, versionKey: false }
 );
 
 // Unique only for registered users: guests have no email field, and a sparse index skips them.
 userSchema.index({ email: 1 }, { unique: true, sparse: true });
+userSchema.index({ isGuest: 1, lastSeenAt: 1 });
 
 userSchema.methods.setPassword = async function setPassword(plain) {
   this.passwordHash = await bcrypt.hash(plain, 12);

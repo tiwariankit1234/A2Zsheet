@@ -2,6 +2,7 @@ import env from './config/env.js';
 import { connectDB, disconnectDB } from './config/db.js';
 import { createApp } from './app.js';
 import { seedIfEmpty } from './services/dataService.js';
+import { scheduleGuestCleanup } from './services/cleanupService.js';
 
 async function main() {
   await connectDB();
@@ -9,6 +10,8 @@ async function main() {
     const seeded = await seedIfEmpty({ log: (m) => console.info(`[seed] ${m}`) });
     if (!seeded) console.info('[seed] Problems already present - skipping auto-seed (run "npm run seed" to refresh).');
   }
+
+  scheduleGuestCleanup({ days: 30 });
 
   const server = createApp().listen(env.port, () => {
     console.info(`[server] API listening on http://localhost:${env.port}/api`);

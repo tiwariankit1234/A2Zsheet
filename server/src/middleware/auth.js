@@ -9,6 +9,16 @@ function readToken(req) {
   return scheme === 'Bearer' && token ? token : null;
 }
 
+const HOUR = 60 * 60 * 1000;
+
+// Records activity without slowing the request down; at most one write per user per hour.
+function touch(user) {
+  const last = user.lastSeenAt ? user.lastSeenAt.getTime() : 0;
+  if (Date.now() - last < HOUR) return;
+  user.lastSeenAt = new Date();
+  User.updateOne({ _id: user._id }, { $set: { lastSeenAt: user.lastSeenAt } }).catch(() => {});
+}
+
 async function resolveUser(token) {
   let payload;
   try {
@@ -18,6 +28,7 @@ async function resolveUser(token) {
   }
   const user = await User.findById(payload.sub);
   if (!user) throw ApiError.unauthorized('Account no longer exists');
+  touch(user);
   return user;
 }
 
